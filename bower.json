@@ -1,0 +1,23 @@
+{
+  "name": "promise",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "singlewhai <n.ratanasuwan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/singlewhai/node-promises",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "components-font-awesome": "~4.5.0",
+    "jquery": "~2.2.2"
+  }
+}
